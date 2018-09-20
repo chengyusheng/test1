@@ -1,7 +1,7 @@
 <?php
 
 
-echo "hello word";
+echo "test success";
 echo "<br>";
 echo "hello github";
 
